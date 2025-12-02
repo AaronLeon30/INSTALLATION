@@ -13,3 +13,5 @@ una vez haberle dado a subir el archivo eliges el archivo que quieras y le das a
 <img width="596" height="84" alt="imatge" src="https://github.com/user-attachments/assets/c6d10343-9692-4e3a-b528-24ec94968409" />
 
 una vez dado y todo lo que he dicho antes el archivo que hayas seleccionado ya se habrá subido 
+
+<img width="400" height="339" alt="imatge" src="https://github.com/user-attachments/assets/889325d8-c1f8-4617-bb8c-a5d6dbf4de88" />
