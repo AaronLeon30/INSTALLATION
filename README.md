@@ -47,3 +47,5 @@ una vez dado a cuentas te meterá aquí yo ya tengo tres cuentas creadas pero te
 <img width="450" height="305" alt="imatge" src="https://github.com/user-attachments/assets/a52b4998-1407-4236-a9fa-609ebd3b0ea6" />
 
 vale, una vez ya estés dentro le darás a donde poner crear una nueva cuenta, una vez le des te saldrá esto.
+
+<img width="393" height="612" alt="imatge" src="https://github.com/user-attachments/assets/8e63a2b3-d73e-41d0-a47b-a4bd36d47be1" />
