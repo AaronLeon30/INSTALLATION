@@ -53,3 +53,5 @@ vale, una vez ya estés dentro le darás a donde poner crear una nueva cuenta, u
 Cuando te salga esto solo lo tienes que llenar poner un correo si quieres no es necesario y una vez ya lo tengas le das añadir cuenta 
 
 <img width="459" height="73" alt="imatge" src="https://github.com/user-attachments/assets/d7060c8f-3470-49d3-9a22-5bd497e71c92" />
+
+y una vez le des a añadir cuenta nueva ya se habrá creado tu cuenta como en mi caso que te he explicado como cree la cuenta de Lionel
