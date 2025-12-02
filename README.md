@@ -25,3 +25,5 @@ una vez le hayas dado te saldra esto y pones el nombre que tu desees
 <img width="605" height="71" alt="imatge" src="https://github.com/user-attachments/assets/9e66fffe-b89d-46f9-82e4-542632e6f56a" />
 
 una vez le hayas dado a crear la carpeta procede a crearla
+
+<img width="634" height="77" alt="imatge" src="https://github.com/user-attachments/assets/80849152-7bd1-4534-8122-714af444f703" />
