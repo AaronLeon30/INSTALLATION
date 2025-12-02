@@ -49,3 +49,5 @@ una vez dado a cuentas te meterá aquí yo ya tengo tres cuentas creadas pero te
 vale, una vez ya estés dentro le darás a donde poner crear una nueva cuenta, una vez le des te saldrá esto.
 
 <img width="393" height="612" alt="imatge" src="https://github.com/user-attachments/assets/8e63a2b3-d73e-41d0-a47b-a4bd36d47be1" />
+
+Cuando te salga esto solo lo tienes que llenar poner un correo si quieres no es necesario y una vez ya lo tengas le das añadir cuenta 
