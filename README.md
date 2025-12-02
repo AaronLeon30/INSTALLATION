@@ -80,3 +80,5 @@ y una vez hayas hecho todo ya estaría ordenado a tu manera
 # 8 Accés des d’una màquina qualsevol de la xarxa
 
 <img width="460" height="255" alt="imatge" src="https://github.com/user-attachments/assets/c0b49f31-8d65-4851-b72e-42645e4fe4e6" />
+
+Y una vez ya todo hecho con la ip de la máquina la pones en tu firefox normal y ya estaría la máquina virtual funcionando en tu propia máquina sin necesidad de cambiar todo al isard y también ya estaría toda la práctica hecha.
