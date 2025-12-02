@@ -35,7 +35,7 @@ una vez ya tengas la carpeta creada para compartirla le tendrás que dar a una p
 
 Una vez dado al más te saldra esto y aquí puedes compartirlo como tu desees o copiando el enlaçe y pasandolo o poniendo su correo electrónico pero se recomienda copiar el enlaçe y pasarlo
 
-# 5 Creació d’usuaris
+## 5 Creació d’usuaris
 
 <img width="242" height="412" alt="imatge" src="https://github.com/user-attachments/assets/1a1b7324-1b6a-4937-b0f1-bf88c859ffd3" />
 
@@ -57,13 +57,13 @@ Cuando te salga esto solo lo tienes que llenar poner un correo si quieres no es 
 
 y una vez le des a añadir cuenta nueva ya se habrá creado tu cuenta como en mi caso que te he explicado como cree la cuenta de Lionel
 
-# 6 configurar permisos
+## 6 configurar permisos
 
 <img width="455" height="84" alt="imatge" src="https://github.com/user-attachments/assets/fb69dbc0-ec7e-461b-87dc-b7ac137637ba" />
 
 para configurar los permisos lo que hay que hacer es darle al lápiz y una vez dado eliges el rol que quieres que haga cada uno, hay te explica como hacer un rol que se hace poniéndolo en añadir rol y después lo modificas todo y el usuario que hayas asignado el rol que tu has deseado solo podrá hacer lo que le permite su rol.
 
-# 7 Organización
+## 7 Organización
 
 
 <img width="491" height="201" alt="imatge" src="https://github.com/user-attachments/assets/9c6ff620-381b-491b-87b4-495622429055" />
@@ -78,7 +78,7 @@ una vez dado te sale añadir a favorito y se pone primero y en orden que tu las 
 
 y una vez hayas hecho todo ya estaría ordenado a tu manera
 
-# 8 Accés des d’una màquina qualsevol de la xarxa
+## 8 Accés des d’una màquina qualsevol de la xarxa
 
 <img width="460" height="255" alt="imatge" src="https://github.com/user-attachments/assets/c0b49f31-8d65-4851-b72e-42645e4fe4e6" />
 
