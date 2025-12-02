@@ -74,3 +74,5 @@ para organizar lo que puedes hacer para organizar es darle al cuadrado de al lad
 una vez dado te sale añadir a favorito y se pone primero y en orden que tu las hayas seleccionado
 
 <img width="491" height="201" alt="imatge" src="https://github.com/user-attachments/assets/5d71f5f0-34b5-4064-8231-eb3044c4fe46" />
+
+y una vez hayas hecho todo ya estaría ordenado a tu manera
