@@ -45,3 +45,5 @@ para  crear nuevos usuarios lo que hay que hacer es darle a tu perfil la letra q
 una vez dado a cuentas te meterá aquí yo ya tengo tres cuentas creadas pero te explicaré como crear una nueva cuenta.
 
 <img width="450" height="305" alt="imatge" src="https://github.com/user-attachments/assets/a52b4998-1407-4236-a9fa-609ebd3b0ea6" />
+
+vale, una vez ya estés dentro le darás a donde poner crear una nueva cuenta, una vez le des te saldrá esto.
