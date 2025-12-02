@@ -29,3 +29,5 @@ una vez le hayas dado a crear la carpeta procede a crearla
 <img width="634" height="77" alt="imatge" src="https://github.com/user-attachments/assets/80849152-7bd1-4534-8122-714af444f703" />
 
 una vez ya tengas la carpeta creada para compartirla le tendrás que dar a una persona que tiene un + arriba 
+
+<img width="451" height="680" alt="imatge" src="https://github.com/user-attachments/assets/c18a5246-f21a-4955-97a8-0ea384a9852a" />
