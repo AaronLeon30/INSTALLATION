@@ -43,3 +43,5 @@ para  crear nuevos usuarios lo que hay que hacer es darle a tu perfil la letra q
 <img width="457" height="244" alt="imatge" src="https://github.com/user-attachments/assets/f8c9e005-3c3b-45d5-8b5a-35b1902a5412" />
 
 una vez dado a cuentas te meterá aquí yo ya tengo tres cuentas creadas pero te explicaré como crear una nueva cuenta.
+
+<img width="450" height="305" alt="imatge" src="https://github.com/user-attachments/assets/a52b4998-1407-4236-a9fa-609ebd3b0ea6" />
