@@ -78,3 +78,5 @@ una vez dado te sale añadir a favorito y se pone primero y en orden que tu las 
 y una vez hayas hecho todo ya estaría ordenado a tu manera
 
 # 8 Accés des d’una màquina qualsevol de la xarxa
+
+<img width="460" height="255" alt="imatge" src="https://github.com/user-attachments/assets/c0b49f31-8d65-4851-b72e-42645e4fe4e6" />
