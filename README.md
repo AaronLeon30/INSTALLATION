@@ -57,3 +57,5 @@ Cuando te salga esto solo lo tienes que llenar poner un correo si quieres no es 
 y una vez le des a añadir cuenta nueva ya se habrá creado tu cuenta como en mi caso que te he explicado como cree la cuenta de Lionel
 
 # 6 configurar permisos
+
+<img width="455" height="84" alt="imatge" src="https://github.com/user-attachments/assets/fb69dbc0-ec7e-461b-87dc-b7ac137637ba" />
