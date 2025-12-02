@@ -68,3 +68,5 @@ para configurar los permisos lo que hay que hacer es darle al lápiz y una vez d
 <img width="491" height="201" alt="imatge" src="https://github.com/user-attachments/assets/9c6ff620-381b-491b-87b4-495622429055" />
 
 para organizar lo que puedes hacer para organizar es darle al cuadrado de al lado de lo que tu quieras tener primero
+
+<img width="491" height="201" alt="imatge" src="https://github.com/user-attachments/assets/fb297e83-8208-4e7b-97b4-041d8b84253a" />
