@@ -23,3 +23,5 @@ para crear una carpeta hay que hacer lo mismo que en lo de subir un archivo le d
 una vez le hayas dado te saldra esto y pones el nombre que tu desees 
 
 <img width="605" height="71" alt="imatge" src="https://github.com/user-attachments/assets/9e66fffe-b89d-46f9-82e4-542632e6f56a" />
+
+una vez le hayas dado a crear la carpeta procede a crearla
