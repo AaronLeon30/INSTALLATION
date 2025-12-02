@@ -27,3 +27,5 @@ una vez le hayas dado te saldra esto y pones el nombre que tu desees
 una vez le hayas dado a crear la carpeta procede a crearla
 
 <img width="634" height="77" alt="imatge" src="https://github.com/user-attachments/assets/80849152-7bd1-4534-8122-714af444f703" />
+
+una vez ya tengas la carpeta creada para compartirla le tendrás que dar a una persona que tiene un + arriba 
