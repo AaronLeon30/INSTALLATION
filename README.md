@@ -37,3 +37,5 @@ Una vez dado al más te saldra esto y aquí puedes compartirlo como tu desees o 
 # 5 Creació d’usuaris
 
 <img width="242" height="412" alt="imatge" src="https://github.com/user-attachments/assets/1a1b7324-1b6a-4937-b0f1-bf88c859ffd3" />
+
+para  crear nuevos usuarios lo que hay que hacer es darle a tu perfil la letra que te salga arriba a la derecha y te saldra lo que ves ahora entonces tu le tendras que dar a cuentas .
