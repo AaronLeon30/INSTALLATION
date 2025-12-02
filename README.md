@@ -59,3 +59,5 @@ y una vez le des a añadir cuenta nueva ya se habrá creado tu cuenta como en mi
 # 6 configurar permisos
 
 <img width="455" height="84" alt="imatge" src="https://github.com/user-attachments/assets/fb69dbc0-ec7e-461b-87dc-b7ac137637ba" />
+
+para configurar los permisos lo que hay que hacer es darle al lápiz y una vez dado eliges el rol que quieres que haga cada uno, hay te explica como hacer un rol que se hace poniéndolo en añadir rol y después lo modificas todo y el usuario que hayas asignado el rol que tu has deseado solo podrá hacer lo que le permite su rol.
