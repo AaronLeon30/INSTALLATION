@@ -35,3 +35,5 @@ una vez ya tengas la carpeta creada para compartirla le tendrás que dar a una p
 Una vez dado al más te saldra esto y aquí puedes compartirlo como tu desees o copiando el enlaçe y pasandolo o poniendo su correo electrónico pero se recomienda copiar el enlaçe y pasarlo
 
 # 5 Creació d’usuaris
+
+<img width="242" height="412" alt="imatge" src="https://github.com/user-attachments/assets/1a1b7324-1b6a-4937-b0f1-bf88c859ffd3" />
