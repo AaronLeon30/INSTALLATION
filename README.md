@@ -62,7 +62,7 @@ y una vez le des a añadir cuenta nueva ya se habrá creado tu cuenta como en mi
 
 para configurar los permisos lo que hay que hacer es darle al lápiz y una vez dado eliges el rol que quieres que haga cada uno, hay te explica como hacer un rol que se hace poniéndolo en añadir rol y después lo modificas todo y el usuario que hayas asignado el rol que tu has deseado solo podrá hacer lo que le permite su rol.
 
-#7 Organización
+# 7 Organización
 
 
 <img width="491" height="201" alt="imatge" src="https://github.com/user-attachments/assets/9c6ff620-381b-491b-87b4-495622429055" />
