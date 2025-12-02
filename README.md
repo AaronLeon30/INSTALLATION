@@ -17,3 +17,5 @@ una vez dado y todo lo que he dicho antes el archivo que hayas seleccionado ya s
 <img width="400" height="339" alt="imatge" src="https://github.com/user-attachments/assets/889325d8-c1f8-4617-bb8c-a5d6dbf4de88" />
 
 para crear una carpeta hay que hacer lo mismo que en lo de subir un archivo le damos al + nuevo y te saldrá la opción de crear nueva carpeta.
+
+<img width="522" height="327" alt="imatge" src="https://github.com/user-attachments/assets/79c95322-e7ce-4650-a62b-99614f8111c1" />
