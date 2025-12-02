@@ -41,3 +41,5 @@ Una vez dado al más te saldra esto y aquí puedes compartirlo como tu desees o 
 para  crear nuevos usuarios lo que hay que hacer es darle a tu perfil la letra que te salga arriba a la derecha y te saldra lo que ves ahora entonces tu le tendras que dar a cuentas .
 
 <img width="457" height="244" alt="imatge" src="https://github.com/user-attachments/assets/f8c9e005-3c3b-45d5-8b5a-35b1902a5412" />
+
+una vez dado a cuentas te meterá aquí yo ya tengo tres cuentas creadas pero te explicaré como crear una nueva cuenta.
