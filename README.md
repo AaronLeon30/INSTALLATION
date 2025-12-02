@@ -6,3 +6,6 @@ En la primera foto que tenemos lo que podemos ver esque para subir un archivo ha
 
 
 <img width="621" height="192" alt="imatge" src="https://github.com/user-attachments/assets/28eec378-75c6-4d1f-891c-5fd3498e6cb4" />
+
+
+una vez haberle dado a subir el archivo eliges el archivo que quieras y le das a abrir
